@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><b>👾 The Alpha-X Whatsapp User Bot 🍁</b></h1>
+<h1 align="center"><b>👾 Hiruu-Queen Whatsapp User Bot 🍁</b></h1>
 <h1 align="center">~ ᴡᴏʀʟᴅ ꜰɪʀꜱᴛ ꜰᴜʟʟ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ ~</h1>
 
 <br>
@@ -9,9 +9,9 @@
 
 <a href="https://github.com/Sihilel/Hiruu-Queen-Bot"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
 
-<h1> 🔎 What is Alpha-X 🔎</h1>
+<h1> 🔎 What is Hiruu-Queen 🔎</h1>
 
-**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. 🍂
+**Hiruu-Queen ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Dark-Devil-Team](https://github.com/Sihilel/Hiruu-Queen-Bot). Does not log into your account It is written on WhatsApp Web API. 🍂
 
 ---
 
@@ -42,8 +42,8 @@ the user is responsible.
 > [New Telegram Plugin Group. ](waite for it)
 
 <a href="https://bit.ly/BOT_SUPPORT">ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a> |
-<a href="https://Wa.me/94704101989">ꜱʟ-ᴀʟᴘʜᴀ</a> |
-<a href="https://Wa.me/94704676889">ʜᴀɴꜱᴀᴋᴀʙʀᴏ |
+<a href="https://Wa.me/94704101989">𝙳𝙰𝚁𝙺 𝙳𝙴𝚅𝙸𝙻</a> |
+<a href="https://Wa.me/94704676889">𝙷𝙸𝚁𝚄𝚄 𝚀𝚄𝙴𝙴𝙽 |
 
 <p align="center"> 
     
@@ -74,7 +74,7 @@ the user is responsible.
     <img src="https://img.shields.io/static/v1?label=Author&message=Dark-Devil-Team&color=red&style=plastic">
 
   </a>
-  <a href="https://t.me/SL_AlphaX_Team">
+  <a href="wait for it">
     <img src="https://img.shields.io/badge/Telegram-AlphaX%20Main-red&style=plastic">
 
   </a>
@@ -93,13 +93,13 @@ the user is responsible.
 > Need **2 PHONES** , 1 for get qr & other one for scan the qr.
 
 ```bash
-bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
+bash <(curl -L https://tinyurl.com/HIRUU-QUEEN-QR-CODE)
 ```
 **• Watch tutorial** [Video](https://youtu.be/6PpRFnr2dSg) **to get qr using termux**
 
 ### `• Deploy To Heroku 🚀`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Sihilel/Hiruu-Queen-Bot-Installer#fork-this-repo-if-it-doesnt-working-and-make-installer-your-self-then-deploy-%EF%B8%8F)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/https://Sihilel/Hiruu-Queen-Bot-Installer#fork-this-repo-if-it-doesnt-working-and-make-installer-your-self-then-deploy-%EF%B8%8F)
 
 > Click the logo to watch Bot tutorial video ✅
 
@@ -701,9 +701,9 @@ This project is protected by `GNU General Public Licence v3.0` license.
 <h2> ⚡ Developers 🔥 </h2>
   <div align="center">
     
-  [![SL ALPHA](https://github.com/SL-Alpha-X.png?size=110)](https://github.com/SL-Alpha-X) |  [![HansakaBro](https://github.com/HansakaBro.png?size=110)](https://github.com/HansakaBro) |  [![UviYaBro](https://github.com/UviYaBro.png?size=110)](https://github.com/UviYaBro) 
+  [![𝙷𝙸𝚁𝚄𝚄](https://telegra.ph/file/6e722d1538e18fe637cd9.jpg?size=110)](https://github.com/Sihilel/Hiruu-Queen-Bot) |  [![𝙳𝙰𝚁𝙺](https://telegra.ph/file/6e722d1538e18fe637cd9.jpg?size=110)](https://github.com/Sihilel/Hiruu-Queen-Bot) |  [![𝙳𝙴𝚅𝙸𝙻](https://telegra.ph/file/6e722d1538e18fe637cd9.jpg?size=110)](https://github.com/Sihilel/Hiruu-Queen-Bot) 
 ------|------|------
-[• Hiruu-x •](https://github.com/SL-Alpha-X)  | [• Dark •](https://github.com/HansakaBro) | [• Devil •](https://github.com/UviYaBro)
+[• Hiruu •](https://github.com/Sihilel/Hiruu-Queen-Bot)  | [• Dark •](https://github.com/Sihilel/Hiruu-Queen-Bot) | [• Devil •](https://github.com/Sihilel/Hiruu-Queen-Bot)
   </div>
 
 </div>
