@@ -5,9 +5,9 @@
 
 <br>
 
-<a href="https://github.com/SL-Alpha-X-Team"><img title="Logo" src="https://telegra.ph/file/c265e654e3ec87c78d984.jpg" width="300" height="280">
+<a href="https://github.com/Sihilel/Hiruu-Queen-Bot"><img title="Logo" src="https://telegra.ph/file/6e722d1538e18fe637cd9.jpg" width="300" height="280"> 
 
-<a href="https://github.com/SL-Alpha-X-Team"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
+<a href="https://github.com/Sihilel/Hiruu-Queen-Bot"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
 
 <h1> 🔎 What is Alpha-X 🔎</h1>
 
@@ -15,10 +15,10 @@
 
 ---
 
-<h1> <💎> Alpha-X <💎> </h1>
+<h1> <💎> Hiruu-Queen <💎> </h1>
 
 ```
-Alpha-X Bot - Alpha Userbot is Open Source software open to development. 
+Hiruu-Quren Bot - Hiruu-Queen Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -26,9 +26,9 @@ install their own plugins to the original software and use them as they wish.
 Using the bot out of purpose will explicitly ban you.
 Usage is entirely the user's responsibility, Alpha Userbot is an 
 infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, Alpha-X 
+for the work done with the programs that are installed later, Hiruu-Queen 
 is not responsible for the usage purpose and method of the users.
-Marketing Alpha-X for money, making it available or having any material value
+Marketing Hiruu-Queen for money, making it available or having any material value
 ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
 the user is responsible.
 ```
@@ -37,45 +37,45 @@ the user is responsible.
 
 <h2> 📢 Guide 📢 </h2>
 
-> [Join For Support & Helps On Telegram.](https://t.me/AlphaX_SUPPORT)
+> [Join For Support & Helps On Telegram.](waite for it)
 
-> [New Telegram Plugin Group. ](https://t.me/AlphaX_plugin)
+> [New Telegram Plugin Group. ](waite for it)
 
 <a href="https://bit.ly/BOT_SUPPORT">ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a> |
-<a href="https://Wa.me/947772978164">ꜱʟ-ᴀʟᴘʜᴀ</a> |
-<a href="https://Wa.me/94763983965">ʜᴀɴꜱᴀᴋᴀʙʀᴏ |
+<a href="https://Wa.me/94704101989">ꜱʟ-ᴀʟᴘʜᴀ</a> |
+<a href="https://Wa.me/94704676889">ʜᴀɴꜱᴀᴋᴀʙʀᴏ |
 
 <p align="center"> 
     
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/fork">
-    <img src="https://img.shields.io/github/forks/SL-Alpha-X-Team/Alpha-X-WA-Bot?label=Fork&style=social">
+  <a href="https://github.com/Sihilel/Hiruu-Queen-Bot/fork">
+    <img src="https://img.shields.io/github/forks/Hiruu-Queen-Bot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/SL-Alpha-X-Team/Alpha-X-WA-Bot?style=social">
+  <a href="https://github.com/Sihilel/Hiruu-Queen-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/Hiruu-Queen-Bot?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
-    <img src="https://img.shields.io/github/repo-size/SL-Alpha-X-Team/Alpha-X-WA-Bot?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/Sihilel/Hiruu-Queen-Bot">
+    <img src="https://img.shields.io/github/repo-size/Hiruu-Queen-Bot?color=red&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SL-Alpha-X-Team/Alpha-X-WA-Bot?color=purple&label=Lisance&style=plastic">
+  <a href="https://github.com/Sihilel/Hiruu-Queen-Bot/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Hiruu-Quenn-Bot?color=red&label=Lisance&style=plastic">
 
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
-    <img src="https://img.shields.io/github/languages/top/SL-Alpha-X-Team/Alpha-X-WA-Bot?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/Sihilel/Hiruu-Queen-Bot">
+    <img src="https://img.shields.io/github/languages/top/Hiruu-Queen-Bot?color=red&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
-    <img src="https://img.shields.io/static/v1?label=Author&message=AlphaXteam&color=purple&style=plastic">
+  <a href="https://github.com/Sihilel/Hiruu-Queen-Bot">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Dark-Devil-Team&color=red&style=plastic">
 
   </a>
   <a href="https://t.me/SL_AlphaX_Team">
-    <img src="https://img.shields.io/badge/Telegram-AlphaX%20Main-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Telegram-AlphaX%20Main-red&style=plastic">
 
   </a>
 </p>
@@ -99,11 +99,11 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 
 ### `• Deploy To Heroku 🚀`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer#fork-this-repo-if-it-doesnt-working-and-make-installer-your-self-then-deploy-%EF%B8%8F)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Sihilel/Hiruu-Queen-Bot-Installer#fork-this-repo-if-it-doesnt-working-and-make-installer-your-self-then-deploy-%EF%B8%8F)
 
 > Click the logo to watch Bot tutorial video ✅
 
-<a href="https://youtube.com/watch?v=en4FLOsGRJY"><img title="Logo" src="https://telegra.ph/file/b2494d5bc4d55ebab9980.jpg">
+<a href="https://youtube.com/watch?v=en4FLOsGRJY"><img title="Logo" src="https://telegra.ph/file/6e722d1538e18fe637cd9.jpg">
 
 ---
 
@@ -703,7 +703,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
     
   [![SL ALPHA](https://github.com/SL-Alpha-X.png?size=110)](https://github.com/SL-Alpha-X) |  [![HansakaBro](https://github.com/HansakaBro.png?size=110)](https://github.com/HansakaBro) |  [![UviYaBro](https://github.com/UviYaBro.png?size=110)](https://github.com/UviYaBro) 
 ------|------|------
-[• sʟ-ᴀʟᴘʜᴀ-x •](https://github.com/SL-Alpha-X)  | [• ʜᴀɴsᴀᴋᴀʙʀᴏ •](https://github.com/HansakaBro) | [• ᴜᴠɪʏᴀʙʀᴏ •](https://github.com/UviYaBro)
+[• Hiruu-x •](https://github.com/SL-Alpha-X)  | [• Dark •](https://github.com/HansakaBro) | [• Devil •](https://github.com/UviYaBro)
   </div>
 
 </div>
