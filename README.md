@@ -1,24 +1,24 @@
 <div align="center">
 
-<h1 align="center"><b>👾 The Alpha-X Whatsapp User Bot 🍁</b></h1>
+<h1 align="center"><b>👾 The Hiruu-Queen Whatsapp User Bot 🍁</b></h1>
 <h1 align="center">~ ᴡᴏʀʟᴅ ꜰɪʀꜱᴛ ꜰᴜʟʟ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ ~</h1>
 
 <br>
 
-<a href="https://github.com/SL-Alpha-X-Team"><img title="Logo" src="https://telegra.ph/file/c265e654e3ec87c78d984.jpg" width="300" height="280">
+<a href="https://github.com/Sihilel/Hiruu-Queen-Bot"><img title="Logo" src="https://telegra.ph/file/6e722d1538e18fe637cd9.jpg" width="300" height="280">
 
-<a href="https://github.com/SL-Alpha-X-Team"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
+<a href="https://github.com/Sihilel/Hiruu-Queen-Bot"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_team-black?colorA=inactive&colorB=purple&style=social&logo=github"></a>
 
-<h1> 🔎 What is Alpha-X 🔎</h1>
+<h1> 🔎 What is Hiruu-Queen 🔎</h1>
 
-**Alpha-X ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SL-Alpha-X-Team](https://github.com/SL-Alpha-X-Team). Does not log into your account It is written on WhatsApp Web API. 🍂
+**Hiruu-Queen ,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Dark-Devil](https://github.com/Sihilel/Hiruu-Queen-Bot). Does not log into your account It is written on WhatsApp Web API. 🍂
 
 ---
 
-<h1> <💎> Alpha-X <💎> </h1>
+<h1> <💎> Hiruu-Queen <💎> </h1>
 
 ```
-Alpha-X Bot - Alpha Userbot is Open Source software open to development. 
+Hiruu-Queen-Bot - Hiruu Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -26,9 +26,9 @@ install their own plugins to the original software and use them as they wish.
 Using the bot out of purpose will explicitly ban you.
 Usage is entirely the user's responsibility, Alpha Userbot is an 
 infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, Alpha-X 
+for the work done with the programs that are installed later, Hiruu-Queen 
 is not responsible for the usage purpose and method of the users.
-Marketing Alpha-X for money, making it available or having any material value
+Marketing Hiruu-Queen for money, making it available or having any material value
 ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
 the user is responsible.
 ```
@@ -37,45 +37,45 @@ the user is responsible.
 
 <h2> 📢 Guide 📢 </h2>
 
-> [Join For Support & Helps On Telegram.](https://t.me/AlphaX_SUPPORT)
+> [Join For Support & Helps On Telegram.](waiting for it)
 
-> [New Telegram Plugin Group. ](https://t.me/AlphaX_plugin)
+> [New Telegram Plugin Group. ](waiting for it)
 
 <a href="https://bit.ly/BOT_SUPPORT">ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a> |
-<a href="https://Wa.me/947772978164">ꜱʟ-ᴀʟᴘʜᴀ</a> |
-<a href="https://Wa.me/94763983965">ʜᴀɴꜱᴀᴋᴀʙʀᴏ |
+<a href="https://Wa.me/94704101989">DARKDEVIL</a> |
+<a href="https://Wa.me/94704676889">DARKDEVIL |
 
 <p align="center"> 
     
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/fork">
+  <a href="https://github.com/Sihilel/Hiruu-Queen-Bot/fork">
     <img src="https://img.shields.io/github/forks/SL-Alpha-X-Team/Alpha-X-WA-Bot?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/SL-Alpha-X-Team/Alpha-X-WA-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/https://github.com/Sihilel/Hiruu-Queen-Bot?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
-    <img src="https://img.shields.io/github/repo-size/SL-Alpha-X-Team/Alpha-X-WA-Bot?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/Sihilel/Hiruu-Queen-Bot">
+    <img src="https://img.shields.io/github/repo-size/Hiruu-Queen-Bot?color=red&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SL-Alpha-X-Team/Alpha-X-WA-Bot?color=purple&label=Lisance&style=plastic">
+  <a href="https://github.com/Sihilel/Hiruu-Queen-Bot/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Hiruu-Queen-Bot?color=red&label=Lisance&style=plastic">
 
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
-    <img src="https://img.shields.io/github/languages/top/SL-Alpha-X-Team/Alpha-X-WA-Bot?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/Sihilel/Hiruu-Queen-Bot">
+    <img src="https://img.shields.io/github/languages/top/Hiruu-Quenn-Bot?color=red&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot">
-    <img src="https://img.shields.io/static/v1?label=Author&message=AlphaXteam&color=purple&style=plastic">
+  <a href="https://github.com/Sihilel/Hiruu-Queen-Bot">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Darkdevil&color=red&style=plastic">
 
   </a>
-  <a href="https://t.me/SL_AlphaX_Team">
-    <img src="https://img.shields.io/badge/Telegram-AlphaX%20Main-purple&style=plastic">
+  <a href="wait for it">
+    <img src="https://img.shields.io/badge/Telegram-HiruuQueen%20Main-red&style=plastic">
 
   </a>
 </p>
@@ -99,11 +99,11 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 
 ### `• Deploy To Heroku 🚀`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot-Installer#fork-this-repo-if-it-doesnt-working-and-make-installer-your-self-then-deploy-%EF%B8%8F)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Sihilel/Hiruu-Queen-Bot-Installer#fork-this-repo-if-it-doesnt-working-and-make-installer-your-self-then-deploy-%EF%B8%8F)
 
 > Click the logo to watch Bot tutorial video ✅
 
-<a href="https://youtube.com/watch?v=en4FLOsGRJY"><img title="Logo" src="https://telegra.ph/file/b2494d5bc4d55ebab9980.jpg">
+<a href="https://youtube.com/watch?v=en4FLOsGRJY"><img title="Logo" src="https://telegra.ph/file/6e722d1538e18fe637cd9.jpg">
 
 ---
 
@@ -112,8 +112,8 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 ```
 Due to Userbot ; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Alpha-X executives do not accept responsibility.
-By establishing the Alpha-X , you are deemed to have accepted these responsibilities.
+Absolutely, Hiruu-Queen executives do not accept responsibility.
+By establishing the Hiruu-Queen , you are deemed to have accepted these responsibilities.
 ```
 
 `Be careful using using this commands 👇`
@@ -682,7 +682,7 @@ Eg: .dict enUS;lead
 >If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
 
 ### Is it paid ❓
->**Of course not.** It will never happen. But you can donate to us. You can reach us via [Telegram](https://t.me/AlphaX_SUPPORT)
+>**Of course not.** It will never happen. But you can donate to us. You can reach us via [Telegram](waite for it)
 
 ### Can i edit this repo ? 😒
 >**Of couse you can!** fork this and edit yourself.
