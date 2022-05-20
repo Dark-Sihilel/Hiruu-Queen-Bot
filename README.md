@@ -664,11 +664,11 @@ Eg: .dict enUS;lead
 
 <h2> 🎨 Websites ==> </h2>
 
-<a href="https://alpha-x.ml"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_Team-black?colorA=9cf&colorB=purple&style=social&logo=smrt"></a>
+<a href="https://github.com/Sihilel/Hiruu-Queen-Bot"><img title="Dark-Devil" src="https://img.shields.io/badge/Dark_Devil_Team-black?colorA=9cf&colorB=purple&style=social&logo=smrt"></a>
 
-<a href="https://alpha-x.ml/wa-bot"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_Bot-black?colorA=9cf&colorB=purple&style=social&logo=starship"></a>
+<a href="https://github.com/Sihilel/Hiruu-Queen-Bot"><img title="Hiruu-Queen" src="https://img.shields.io/badge/Hiruu_Queen_Bot-black?colorA=9cf&colorB=purple&style=social&logo=starship"></a>
 
-<a href="https://alpha-x.ml/bot-help"><img title="Alpha-X-Tm" src="https://img.shields.io/badge/Alpha_X_Bot_Help-black?colorA=9cf&colorB=purple&style=social&logo=google"></a>
+<a href="https://github.com/Sihilel/Hiruu-Queen-Bot"><img title="Dark-Hiruu" src="https://img.shields.io/badge/Hiruu_Queen_Bot_Help-black?colorA=9cf&colorB=purple&style=social&logo=google"></a>
 
 ---
 
